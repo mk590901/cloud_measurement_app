@@ -16,7 +16,9 @@ Flutter frontend for cloud located sensor.
 
 ## Features of the application
 
->The application is represented by four pages: **login**, **logout**, **simulator panel** and **about** page. There are buttons on the toolbar of app to navigate
+>The application is represented by four pages: **login**, **logout**, **simulator panel** and **about** page. There are buttons on the toolbar of app to navigate.
+
+>Elements of interaction with **toitware's account** in which **ESP32** controllers are registered have been added to the application. The **toit_api** library is used for this. It allows you to connect to an account, as well as send data to the controller and receive a response from it using the **publish-subscribe** pattern.
 
 ## Picture I
 
