@@ -16,7 +16,7 @@ Flutter frontend for cloud located sensor.
 
 ## Features of the application
 
-
+>The application is represented by four pages: **login**, **logout**, **simulator panel** and **about** page. There are buttons on the toolbar of app to navigate
 
 ## Picture I
 
