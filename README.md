@@ -4,11 +4,14 @@ Flutter frontend for cloud located sensor.
 
 ## Introduction
 
-The goal of the project is to developing a universal widget for controlling and visualizing a certain virtual (for now) measuring instrument. In this case - this is a temperature sensor.
+>The goal of the project is to developing a universal widget for controlling and visualizing a certain virtual (for now) measuring instrument. In this case - this is a temperature sensor.
 
 ## Concept
 
-The widget is a tile consisting of several elements: an icon with animation elements, a measurement result field and a button that allows you to initiate or interrupt a measurement. The color of the widget changes depending on the received measuring value: out of range, critically low, low, normal, and then increasing according to the same principle. The main idea is to create a common measuring panel for a certain number of sensors in the form of a vertical list of items, each of which is a widget of a separate device or a property of a complex device.
+>The widget is a tile consisting of several elements: an icon with animation elements, a measurement result field and a button that allows you to initiate or interrupt a measurement. The color of the widget changes depending on the received measuring value: out of range, critically low, low, normal, and then increasing according to the same principle. The main idea is to create a common measuring panel for a certain number of sensors in the form of a vertical list of items, each of which is a widget of a separate device or a property of a complex device.
+
+## Implementation
+
 
 ## Picture I
 
