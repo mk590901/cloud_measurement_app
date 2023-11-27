@@ -12,6 +12,7 @@ Flutter frontend for cloud located sensor.
 
 ## Implementation
 
+>All application elements were created earlier and applied in the project https://github.com/mk590901/temperature_sensor_simulator. In the current project they are just a little more streamlined and refactored. The implementation still uses the BLOC model.
 
 ## Picture I
 
