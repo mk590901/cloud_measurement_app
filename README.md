@@ -4,7 +4,7 @@ Flutter frontend for cloud located sensor.
 
 ## Introduction
 
-
+The goal of the project is to developing a universal widget for controlling and visualizing a certain virtual (for now) measuring instrument. In this case - this is a temperature sensor.
 
 ## Picture I
 
