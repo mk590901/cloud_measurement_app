@@ -34,6 +34,8 @@ https://github.com/mk590901/cloud_measurement_app/assets/125393245/90c94fce-704b
 
 https://github.com/mk590901/cloud_measurement_app/assets/125393245/d5f65dce-c616-4c45-b9b5-8960b74c8dc9
 
+>It's easy to see that, all other things being equal, an application using ESP32 is much slower. Sending and receiving data via the cloud takes time.
+
 ## Picture I
 
 ![echo](https://github.com/mk590901/cloud_measurement_app/assets/125393245/0f13bf06-09d9-4af7-9cf4-ea934f09f6d0)
