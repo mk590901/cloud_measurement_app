@@ -22,7 +22,7 @@ Flutter frontend for cloud located sensor.
 
 >The application works in two modes: **local**, using an internal temperature sensor simulator or **cloud**, using an external simulator running on an ESP32. In the second case, you must first deploy the CloudServer application, as shown in the figure below. If you run the application and ignore login and go straight to the sensor page, the internal simulator starts. If login is executed, then simulator will be launched on the ESP32 controller connected to the your toitware account on the cloud.
 
-
+>This application can be considered as client, similar to the client application on toit in the https://github.com/mk590901/toit-temperature-sensor project, only writted on flutter. Can say this project includes server elements of the https://github.com/mk590901/toit-temperature-sensor project.
 
 ## Picture I
 
