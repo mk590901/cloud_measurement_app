@@ -24,6 +24,16 @@ Flutter frontend for cloud located sensor.
 
 >This application can be considered as client, similar to the client application on toit in the https://github.com/mk590901/toit-temperature-sensor project, only writted on flutter. Can say this project includes server elements of the https://github.com/mk590901/toit-temperature-sensor project.
 
+>Below are two movies: the first is ESP32 simulation on cloud, the second is the local internal simulator. Unfortunately, github doesn't allow to add movies larger than 10MB to README.md, so I had to create two videos.
+
+### ESP32 simulation on cloud
+
+https://github.com/mk590901/cloud_measurement_app/assets/125393245/90c94fce-704b-41ee-9f64-be44b4c460d8
+
+### Local Simulation
+
+https://github.com/mk590901/cloud_measurement_app/assets/125393245/d5f65dce-c616-4c45-b9b5-8960b74c8dc9
+
 ## Picture I
 
 ![echo](https://github.com/mk590901/cloud_measurement_app/assets/125393245/0f13bf06-09d9-4af7-9cf4-ea934f09f6d0)
@@ -31,14 +41,3 @@ Flutter frontend for cloud located sensor.
 ## Picture II
 
 ![toit_console](https://github.com/mk590901/cloud_measurement_app/assets/125393245/fcc3bd81-5ee6-4537-8371-2e92af36a415)
-
-
-## Movie I
-
-https://github.com/mk590901/cloud_measurement_app/assets/125393245/90c94fce-704b-41ee-9f64-be44b4c460d8
-
-## Movie II
-
-https://github.com/mk590901/cloud_measurement_app/assets/125393245/d5f65dce-c616-4c45-b9b5-8960b74c8dc9
-
-
