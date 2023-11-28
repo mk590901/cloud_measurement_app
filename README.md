@@ -36,10 +36,12 @@ https://github.com/mk590901/cloud_measurement_app/assets/125393245/d5f65dce-c616
 
 >It's easy to see that, all other things being equal, an application using ESP32 is much slower. Sending and receiving data via the cloud takes time.
 
-## Picture I
+## Additions
+
+>Deployment of TOIT CloudServer app 
 
 ![echo](https://github.com/mk590901/cloud_measurement_app/assets/125393245/0f13bf06-09d9-4af7-9cf4-ea934f09f6d0)
 
-## Picture II
+>The next picture is provided to confirm that everything that is happening isn't vision aberration or a fake, and the application actually involves ESP32 and cloud. This is screenshot of toitware console of CloudServer app -  temperature sensor emulator server. 
 
 ![toit_console](https://github.com/mk590901/cloud_measurement_app/assets/125393245/fcc3bd81-5ee6-4537-8371-2e92af36a415)
