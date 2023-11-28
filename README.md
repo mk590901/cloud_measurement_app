@@ -20,6 +20,10 @@ Flutter frontend for cloud located sensor.
 
 >Elements of interaction with **toitware's account** in which **ESP32** controllers are registered have been added to the application. The **toit_api** library is used for this. It allows you to connect to an account, as well as send data to the controller and receive a response from it using the **publish-subscribe** pattern.
 
+>The application works in two modes: **local**, using an internal temperature sensor simulator or **cloud**, using an external simulator running on an ESP32. In the second case, you must first deploy the CloudServer application, as shown in the figure below. If you run the application and ignore login and go straight to the sensor page, the internal simulator starts. If login is executed, then simulator will be launched on the ESP32 controller connected to the your toitware account on the cloud.
+
+
+
 ## Picture I
 
 ![echo](https://github.com/mk590901/cloud_measurement_app/assets/125393245/0f13bf06-09d9-4af7-9cf4-ea934f09f6d0)
